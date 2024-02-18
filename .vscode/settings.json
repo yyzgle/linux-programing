@@ -1,6 +1,7 @@
 {
 	"files.associations": {
 		"*.c": "c",
-		"string.h": "c"
+		"string.h": "c",
+		"types.h": "c"
 	}
 }

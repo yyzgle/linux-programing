@@ -9,7 +9,7 @@
 			"type": "cppdbg",
 			"request": "launch",
 			"program": "${fileDirname}/a.out",
-			"args": ["copy.c","f1.c"],
+			"args": ["/home/ubuntu/linux-programing"],
 			"stopAtEntry": false,
 			"cwd": "${fileDirname}",
 			"environment": [],
